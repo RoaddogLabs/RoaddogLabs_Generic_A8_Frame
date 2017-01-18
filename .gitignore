@@ -1,0 +1,13 @@
+# sources that aren't to be tracked
+
+*.dwg
+*.fff
+*.factory
+*.gcode
+*.fabbproject
+*.bak
+*.mix
+*.dwl
+*.dwl2
+*.DS_Store
+*.cdr
